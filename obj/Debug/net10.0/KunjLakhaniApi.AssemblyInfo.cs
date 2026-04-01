@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KunjLakhaniApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c057e3271d5329c5f71b155c13f54680fd301c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+513902de10f5ef8ae8ec65ba316f4699b9c64669")]
 [assembly: System.Reflection.AssemblyProductAttribute("KunjLakhaniApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KunjLakhaniApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
