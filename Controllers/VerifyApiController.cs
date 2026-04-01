@@ -5,7 +5,7 @@ using System.Net;
 namespace KunjLakhaniApi.Controllers
 {
   [ApiController]
-  [Route("[controller]")]
+  [Route("verify")]
   public class VerifyApiController: ControllerBase
     {
         [HttpGet]
